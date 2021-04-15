@@ -15,5 +15,17 @@
     ],
     "profile": {
       "name": "typicode"
-    }
+    },
+
+    "Categories": [
+    {"id": "hi1", "title": "Bún Đậu"},
+    {"id": "hi2", "title": "Cơm Rang"},
+    {"id": "hi3", "title": "Cơm Văn Phòng"},
+    {"id": "hi4", "title": "Cơm Thố"},
+    {"id": "hi5", "title": "Bánh Tráng"},
+    {"id": "hi6", "title": "Bún"},
+    {"id": "hi7", "title": "Phở"},
+    {"id": "hi8", "title": "Trà Sữa"}
+    ]
+
   }
