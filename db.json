@@ -18,14 +18,14 @@
     },
 
     "Categories": [
-    {"id": "hi1", "title": "Bún Đậu"},
-    {"id": "hi2", "title": "Cơm Rang"},
-    {"id": "hi3", "title": "Cơm Văn Phòng"},
-    {"id": "hi4", "title": "Cơm Thố"},
-    {"id": "hi5", "title": "Bánh Tráng"},
-    {"id": "hi6", "title": "Bún"},
-    {"id": "hi7", "title": "Phở"},
-    {"id": "hi8", "title": "Trà Sữa"}
+    {"id": "hi1", "title": "Bún Đậu","tag":["adu","daumoi"]},
+    {"id": "hi2", "title": "Cơm Rang","tag":["adu","vjp"]},
+    {"id": "hi3", "title": "Cơm Văn Phòng","tag":["adu","cek"]},
+    {"id": "hi4", "title": "Cơm Thố","tag":["adu","daumoi"]},
+    {"id": "hi5", "title": "Bánh Tráng","tag":["adu","daumoi"]},
+    {"id": "hi6", "title": "Bún","tag":["adu","daumoi"]},
+    {"id": "hi7", "title": "Phở","tag":["adu","daumoi"]},
+    {"id": "hi8", "title": "Trà Sữa","tag":["adu","daumoi"]}
     ]
 
   }
